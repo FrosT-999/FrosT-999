@@ -30,7 +30,7 @@ Sou um desenvolvedor em transição de carreira, atualmente mergulhado no ecossi
 * 🏗️ Construindo projetos práticos para consolidar conceitos de **DOM Manipulation** e APIs REST.
 
 ---
-
+D
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
