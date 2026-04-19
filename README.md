@@ -26,7 +26,7 @@ Sou um desenvolvedor em transição de carreira, atualmente mergulhado no ecossi
 
 * 🔭 Aprofundando em **NestJS** para arquiteturas de back-end robustas.
 * 🤖 Criando automações inteligentes e fluxos de trabalho com **n8n**.
-* 🐍 Próximo objetivo: Iniciar os estudos em **Python** para análise de dados e automações avançadas.
+* 🐍 Próximo objetivo: oniciar os estudos em Java para desenvolvimento backend e aprofundamento em sistemas robustos.
 * 🏗️ Construindo projetos práticos para consolidar conceitos de **DOM Manipulation** e APIs REST.
 
 ---
