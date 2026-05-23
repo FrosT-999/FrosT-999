@@ -1,6 +1,6 @@
 # Olá, eu sou Rafael Oliveira 👋
 
-### 🚀 Aspiring Backend Developer | Automation Enthusiast
+### 🚀 Aspiring FullStack Developer | Automation Enthusiast
 
 Sou um desenvolvedor em transição de carreira, atualmente mergulhado no ecossistema de **Node.js** e **TypeScript**. Meu foco é transformar lógica complexa em aplicações funcionais e escaláveis, saindo dos tutoriais para construir soluções reais.
 
