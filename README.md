@@ -1,21 +1,23 @@
 # Olá, eu sou Rafael Oliveira 👋
 
-### 🚀 Aspiring Backend Developer | Automation Enthusiast
+### 🚀 Backend Developer | Node.js • TypeScript • Java & Spring Boot
 
-Sou um desenvolvedor em transição de carreira, atualmente mergulhado no ecossistema de **Node.js** e **TypeScript**. Meu foco é transformar lógica complexa em aplicações funcionais e escaláveis, saindo dos tutoriais para construir soluções reais.
+Sou um desenvolvedor focado no ecossistema de backend, atualmente dividindo meus superpoderes entre o universo de **Node.js/TypeScript** e a robustez do **Java com Spring Boot**. Sou movido por transformar lógicas complexas e arquiteturas em APIs funcionais, escaláveis e de alta performance, aplicando conceitos sólidos de desenvolvimento no mundo real.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens e Frameworks:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-**Bancos de Dados e Automação:**
+**Bancos de Dados, Controle de Versão e Automação:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
@@ -24,13 +26,22 @@ Sou um desenvolvedor em transição de carreira, atualmente mergulhado no ecossi
 
 ### 🎯 No que estou trabalhando agora?
 
-* 🔭 Aprofundando em **NestJS** para arquiteturas de back-end robustas.
-* 🤖 Criando automações inteligentes e fluxos de trabalho com **n8n**.
-* 🐍 Próximo objetivo: iniciar os estudos em Java para desenvolvimento backend e aprofundamento em sistemas robustos.
-* 🏗️ Construindo projetos práticos para consolidar conceitos de **DOM Manipulation** e APIs REST.
+* ☕ Aprofundando no ecossistema **Java** e desenvolvendo APIs RESTful robustas com **Spring Boot**.
+* 🛡️ Consolidando padrões de arquitetura e injeção de dependência com **NestJS**.
+* 🔀 Aplicando fluxos de trabalho organizados com **Git & GitHub** (Git Flow, boas práticas de commits e versionamento).
+* 🤖 Criando automações inteligentes e integração de sistemas com **n8n**.
 
 ---
-D
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrosT-999&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrosT-999&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
