@@ -32,14 +32,6 @@ Sou um desenvolvedor focado no ecossistema de backend, atualmente dividindo meus
 * 🤖 Criando automações inteligentes e integração de sistemas com **n8n**.
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrosT-999&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrosT-999&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ---
 
 ### 📊 Estatísticas do GitHub
